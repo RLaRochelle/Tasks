@@ -1,6 +1,6 @@
 #Task 10
-#A group of us worked together to do most of the first for loop and its questions, but I worked mainly with Logan Bower and Kayla Coffman, who helped me with much of the coding for that loop, and also a few parts of the second one.
-#There were several other people in the group, including Megan Cozort and Spencer Cutlip, but I don't know all of their names and I mostly worked with Logan and Kayla.
+#A group of us worked together to do most of the first for loop and its questions, but I worked mainly with Logan Bower and Kayla Coffman, who helped me with much of the coding for that loop and its questions, and also a few parts of the second one and its questions later.
+#There were several other people in the group for the first loop, including Megan Cozort and Spencer Cutlip, but I don't know all of their names and I mostly worked with Logan and Kayla. I also posted and discussed it on Reddit. 
 library ("phytools")
 #questions 1-3
 trees<-list()
