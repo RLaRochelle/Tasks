@@ -41,3 +41,7 @@ x_Stasis<-fitSimple(OBJ_all,model="Stasis",pool=FALSE,method="Joint")
 x_OU<-fitSimple(OBJ_all,model="OU",,pool=FALSE,method="Joint")
 compareModels(x_OU,x_URW,x_GRW,x_Stasis)
 plot(OBJ_all,modelFit=x_Stasis)
+
+Year<-tt_all
+Collections<-nn_all
+plot(Year,Collections)
